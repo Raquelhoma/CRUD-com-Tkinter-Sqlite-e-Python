@@ -1,4 +1,3 @@
-from tkinter import *
 from sqlite3 import dbapi2
 import sqlite3
 from tkinter import *
